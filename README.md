@@ -4,7 +4,7 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=V4MF1R3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=V4MF1R3&no-bg=true&no-frame=true&column=4&theme=dark_lover" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=V4MF1R3&no-bg=true&no-frame=true&column=8&theme=dark_lover" height="150" alt="trophy graph"  />
 </div>
 
 ###
